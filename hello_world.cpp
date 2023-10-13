@@ -7,4 +7,5 @@ int main() {
     std::cout << "Hello, "+name+"!";
     return 0;
 }
-//patched
+//новый патч 
+
